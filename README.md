@@ -8,6 +8,7 @@
 **Integrantes:** Ricardo Gabriel Diaz · Nicolás Gerardo Benitez  
 **Instancia de Evaluación:** Primer Parcial — Integración de Modelado Estructurado  
 **Versión:** 1.0 (Septiembre 2026) — Formato bajo lineamientos IEEE 830  
+**Documentación Formal:** 📄 [Descargar / Ver PDF del SRS](DieteticaApp_SRS_Documentacion.pdf)  
 
 ---
 
