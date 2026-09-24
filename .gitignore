@@ -23,3 +23,9 @@ ENV/
 .vscode/
 *.swp
 *.swo
+
+# Temp / Build
+*_temp_doc.html
+_temp_doc.html
+node_modules/
+

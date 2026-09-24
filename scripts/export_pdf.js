@@ -2,9 +2,10 @@ const puppeteer = require('puppeteer-core');
 const fs = require('fs');
 const path = require('path');
 
-const projectDir = '/Users/gabo/Desktop/Proyectos/DieteticaApp';
-const htmlPath = path.join(projectDir, '_temp_doc.html');
-const outputPath = path.join(projectDir, 'DieteticaApp_SRS_Documentacion.pdf');
+const projectDir = path.resolve(__dirname, '..');
+const docsDir = path.join(projectDir, 'docs');
+const htmlPath = path.join(docsDir, '_temp_doc.html');
+const outputPath = path.join(docsDir, 'DieteticaApp_SRS_Documentacion.pdf');
 
 const imgInventario = 'mockups/mockup_inventario.jpg';
 const imgFormProducto = 'mockups/mockup_formulario_producto.jpg';
