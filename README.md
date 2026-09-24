@@ -5,6 +5,7 @@
 **Carrera:** Analista de Sistemas / Diseño y Programación Web  
 **Materia:** Análisis y Metodología de Sistemas (Ciclo Lectivo 2026)  
 **Cátedra:** Prof. Diego Simonelli / Prof. G. Quiroz  
+**Integrantes:** Ricardo Gabriel Diaz · Nicolás Gerardo Benitez  
 **Instancia de Evaluación:** Primer Parcial — Integración de Modelado Estructurado  
 **Versión:** 1.0 (Septiembre 2026) — Formato bajo lineamientos IEEE 830  
 
